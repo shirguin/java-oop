@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c049c99-d319-47c1-8703-1ad9301deac2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Research.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/CallPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/CatLover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/DogLover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/PersonTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/PetTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Research.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Class_Work/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Class_Work/PersonTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Class_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Class_Work/SortByIncrementName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Research.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Home_Work/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Class_Work/ListAr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Class_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Class_Work/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/AddRemoveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/DeadlineSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/Export.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ExportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ExportToCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ExportToJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ExportToXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ImportFromCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ImportFromJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ImportFromXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/ImportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/SAXExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/TaskList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/TaskList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/TaskList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/TaskTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Home_Work/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/FileWorkerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/InformationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/LinkData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/PersonActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Prorgamm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Relation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/RepositoryLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/RepositoryWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/WorkerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Class_Work/WorkerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/DeleteMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/EditMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/MessageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/Operate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/SuperUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Home_Work/VIPUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/ShapeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/ShapeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Class_Work/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/DeleteMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/EditMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/Operate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/SuperUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Home_Work/VIPUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Class_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Home_Work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YwolbE83oGB7Ls8oKpVYgLpegu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\java-oop\src" />
+      <recent name="D:\Java\java-oop\src\Lesson_7" />
+      <recent name="D:\Java\java-oop\src\Lesson_7\Home_Work" />
+      <recent name="D:\Java\java-oop\src\Lesson_7\Class_Work" />
+      <recent name="D:\Java\java-oop\src\Lesson_6\Home_Work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lesson_7.Home_Work.Program">
+    <configuration name="Lesson_6.Home_Work.Programm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.Home_Work.Programm" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.Home_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_7.Class_Work.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.Class_Work.Program" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.Class_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_7.Home_Work.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.Home_Work.Program" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.Home_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.Class_Work.Program" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.Class_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.Home_Work.Programm" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_5.Home_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson_7.Home_Work.Program" />
+        <item itemvalue="Application.Lesson_7.Class_Work.Program" />
+        <item itemvalue="Application.Lesson_6.Home_Work.Programm" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Programm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c049c99-d319-47c1-8703-1ad9301deac2" name="Changes" comment="" />
+      <created>1701446154520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701446154520</updated>
+    </task>
+    <servers />
+  </component>
+</project>
